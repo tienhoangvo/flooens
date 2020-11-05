@@ -1,0 +1,24 @@
+extends base
+mixin navItem(link, text, icon, active)
+    li(class=`${title.toLowerCase()===text.toLowerCase() ? 'side-nav--active' : ''}`)
+        a(href=`${link}`)
+            svg
+                use(xlink:href=`img/sprite.svg#icon-${icon}`)
+            | #{text}
+block content
+    main.main
+        .user-view
+            nav.user-view__menu
+                ul.side-nav
+                    +navItem('/me', 'Account settings', 'cog', true)
+                    +navItem('/my-word-lists', 'My word lists', 'list')
+                - if (user.role === 'admin')
+                    .admin-nav
+                        h5.admin-nav__heading Admin
+                        ul.side-nav
+                            +navItem('#', 'Manage resources', 'sound-mix')
+                            +navItem('#', 'Manage users', 'users')
+                            +navItem('#', 'Manage wordLists', 'list')
+                    
+            .user-view__content
+                block user-view__content

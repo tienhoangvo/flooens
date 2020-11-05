@@ -1,0 +1,29 @@
+extends base
+block content
+    main.main
+        .word
+            each wordListItem in wordList.wordListItems
+                .word__form
+                    .word__form-head
+                        .word__form-head--content
+                            h3.heading-tertiary= wordListItem.word
+                            if wordListItem.wordClass
+                                span ||
+                                .word-class= wordListItem.wordClass
+                        if wordListItem.pronunciations
+                            .word__form-head--pronunciation
+                                each pronunciation in wordListItem.pronunciations
+                                    .pronunciation--item
+                                        .pronunciation__accent= pronunciation.accent
+                                        .pronunciation__IPA= pronunciation.IPA
+                                        button.pronunciation__speaker(data-word-spelling=`${wordListItem.word}`, data-pronunciation-accent=`${pronunciation.accent}`) 🔊
+                    .word__form-content
+                            .word__sense
+                                .word__sense-content
+                                        .definition-head
+                                            p.definition= wordListItem.definition.definition
+                                            span.separator
+                                            button.remove-from-word-list(data-word-list-item=`${JSON.stringify(wordListItem)}`) ➖
+                                        .definition-content
+                                            each example in wordListItem.definition.examples
+                                                p.example= example.example

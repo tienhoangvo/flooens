@@ -1,0 +1,47 @@
+extends account
+mixin wordList(wordList)
+    .wordList
+        a.wordList__name(href=`/my-word-lists/${wordList.slug}`)
+            svg
+                use(xlink:href=`img/sprite.svg#icon-list`)
+            | #{wordList.name} (#{wordList.wordListItems.length})
+        .wordList__btns
+            a.btn.wordList__btn.wordList__btn--edit(href='#wordList__update', data-word-list=`${JSON.stringify(wordList)}`)
+                svg
+                    use(xlink:href=`img/sprite.svg#icon-edit`)
+            a.btn.wordList__btn.wordList__btn--delete(data-word-list-id=`${wordList._id}`)
+                svg
+                    use(xlink:href=`img/sprite.svg#icon-minus`)
+block user-view__content
+    .user-view__wordLists-section
+        h2.heading-secondary.ma-bt-md My word lists 
+        a.btn.wordList__btn.wordList__btn--create(href='#wordList__create')
+            svg
+                use(xlink:href=`img/sprite.svg#icon-plus`)
+        .wordLists-showcase
+            each wordList in wordLists
+                +wordList(wordList)
+    .line &nbsp;
+    .user-view__form-container.crud-form#wordList__update
+        h2.heading-secondary.ma-bt-md Update
+        form.form.form-crud-action
+            .form__group
+                label.form__label(for='name') Name
+                input#wordList-name--update.form__input(type='text', required)
+            .form__group.ma-bt-md
+                label.description.form__label(for='description') Description
+                textarea#wordList-description--update.form__input
+            .form__group.right
+                button.btn.btn--small.btn--update Update
+    .line &nbsp;
+    .user-view__form-container.crud-form#wordList__create
+        h2.heading-secondary.ma-bt-md Create
+        form.form.form-crud-action
+            .form__group
+                label.form__label(for='name') Name
+                input#wordList-name--create.form__input(type='text', required)
+            .form__group.ma-bt-md
+                label.form__label(for='description') Description
+                textarea#wordList-description--create.form__input(name="description")
+            .form__group.right
+                button.btn.btn--small.btn--update Create

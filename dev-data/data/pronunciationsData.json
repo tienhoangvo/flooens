@@ -1,0 +1,656 @@
+[
+  {
+    "_id": "5ef6db2da8dae00c43d5f04c",
+    "wordForm": "5eb81f6fc4b80330c47739bd",
+    "accent": "UK",
+    "IPA": "/ˈæk.tər/"
+  },
+  {
+    "_id": "5ef6dc77492c7dcf730cd6d2",
+    "wordForm": "5eb81f6fc4b80330c47739bd",
+    "accent": "US",
+    "IPA": "/ˈæk.tɚ/"
+  },
+  {
+    "_id": "5ef6dd5fa78b1e5dea7cebaf",
+    "wordForm": "5eb81f754b29b2c5ca700f52",
+    "accent": "UK",
+    "IPA": "/ˈmeθ.əd ˌæk.tər/"
+  },
+  {
+    "_id": "5ef6dd82911ea48f0723140f",
+    "wordForm": "5eb81f754b29b2c5ca700f52",
+    "accent": "US",
+    "IPA": "/ˈmeθ.əd ˌæk.tɚ/"
+  },
+  {
+    "_id": "5ef6de561219c06fc3e18a0d",
+    "wordForm": "5eb8264748c864a3246a2ab0",
+    "accent": "US",
+    "IPA": "/ˈmeθ.əd ˌæk.tɪŋ/"
+  },
+  {
+    "_id": "5ef6de5c73832bedc0360133",
+    "wordForm": "5eb8264748c864a3246a2ab0",
+    "accent": "UK",
+    "IPA": "/ˈmeθ.əd ˌæk.tɪŋ/"
+  },
+  {
+    "_id": "5ef6df2d689df67bba84e7a0",
+    "wordForm": "5ebcb2701555b59a8ce8aaa5",
+    "accent": "UK",
+    "IPA": "/ˈfɑː.ðər/"
+  },
+  {
+    "_id": "5ef6df459b70ed72205f4e5e",
+    "wordForm": "5ebcb2701555b59a8ce8aaa5",
+    "accent": "US",
+    "IPA": "/ˈfɑː.ðɚ/"
+  },
+  {
+    "_id": "5ef6dfb78844ec6dcd9563d4",
+    "wordForm": "5ebcb2d018628a9863811e3c",
+    "accent": "UK",
+    "IPA": "/ˈfɑː.ðər/"
+  },
+  {
+    "_id": "5ef6dfbcbc5c733408d00ade",
+    "wordForm": "5ebcb2d018628a9863811e3c",
+    "accent": "US",
+    "IPA": "/ˈfɑː.ðɚ/"
+  },
+  {
+    "_id": "5ef6ea1ac9fd68799393ebeb",
+    "wordForm": "5ef6e94051156fb9891cb920",
+    "accent": "US",
+    "IPA": "/ˈfɑː.ðɚ ˌfɪɡ.jʊr/"
+  },
+  {
+    "_id": "5ef6ea214e3c6aef6c15f3c5",
+    "wordForm": "5ef6e94051156fb9891cb920",
+    "accent": "UK",
+    "IPA": "/ˈfɑː.ðə ˌfɪɡ.ər/"
+  },
+  {
+    "_id": "5ef6ea28efd184716fd519d2",
+    "wordForm": "5ef6ea2f60c166775d494b51",
+    "accent": "US",
+    "IPA": "/ˌfaʊn.dɪŋ ˈfɑː.ðər/"
+  },
+  {
+    "_id": "5ef6ea2f60c166775d494b51",
+    "wordForm": "5ef6ea2f60c166775d494b51",
+    "accent": "UK",
+    "IPA": "/ˌfaʊn.dɪŋ ˈfɑː.ðɚ/"
+  },
+  {
+    "_id": "5ef6eb95499cc4633ec626ea",
+    "wordForm": "5ef6eb5779c8e84e6147e00e",
+    "accent": "US",
+    "IPA": "/blæk/"
+  },
+  {
+    "_id": "5ef6ebb60c4c260c9c987fe2",
+    "wordForm": "5ef6eb5779c8e84e6147e00e",
+    "accent": "UK",
+    "IPA": "/blæk/"
+  },
+  {
+    "_id": "5ef6ec39c66f1aeed81b14b4",
+    "wordForm": "5ef6ec13e314abe5c0c010f1",
+    "accent": "UK",
+    "IPA": "/blæk/"
+  },
+  {
+    "_id": "5ef6ec6f543397e8f7c05ab5",
+    "wordForm": "5ef6ec13e314abe5c0c010f1",
+    "accent": "US",
+    "IPA": "/blæk/"
+  },
+  {
+    "_id": "5ef6ecd1f8f46e9005ae9710",
+    "wordForm": "5ef6ec9fa2c5b05285c3544a",
+    "accent": "UK",
+    "IPA": "/blæk/"
+  },
+  {
+    "_id": "5ef6ecdbbded4eddf95dfe6e",
+    "wordForm": "5ef6ec9fa2c5b05285c3544a",
+    "accent": "US",
+    "IPA": "/blæk/"
+  },
+  {
+    "_id": "5ef6ee02a11e2de7d509c1cd",
+    "wordForm": "5ef6edc7b50004e35b757eb1",
+    "accent": "UK",
+    "IPA": "/ˌblæk ˈbelt/"
+  },
+  {
+    "_id": "5ef6ee1cb8ef40b9199df0c6",
+    "wordForm": "5ef6edc7b50004e35b757eb1",
+    "accent": "US",
+    "IPA": "/ˌblæk ˈbelt/"
+  },
+  {
+    "_id": "5ef6ee9acef7f79f8d183572",
+    "wordForm": "5ef6ee1cb8ef40b9199df0c6",
+    "accent": "UK",
+    "IPA": "/ˌblæk ˈbɒks/"
+  },
+  {
+    "_id": "5ef851aca830b092c5b4a130",
+    "wordForm": "5ef6ee1cb8ef40b9199df0c6",
+    "IPA": "/ˌblæk ˈbɑːks/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef6ef893dd26df940a2cbef",
+    "wordForm": "5ef6ef116ba410c22c3b9634",
+    "IPA": "/ˌblæk ˈkəʊdz/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef6ef8ec2bdc60d7e4136f1",
+    "wordForm": "5ef6ef116ba410c22c3b9634",
+    "IPA": "/ˌblæk ˈkoʊdz/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef6f089b1dc99073dd46209",
+    "wordForm": "5ef6efd0ad3cceeca912ba9d",
+    "IPA": "/ˌblæk ˈdeθ/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef851c9f6e4f2de7b92b468",
+    "wordForm": "5ef6efd0ad3cceeca912ba9d",
+    "IPA": "/ˌblæk ˈdeθ/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef6f1624a42ebd3f7921577",
+    "wordForm": "5ef6f0bd1d8288f0dced62bb",
+    "IPA": "/ˌblæk ˈaɪ/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef6f166a7a9546f3b7f3fb8",
+    "wordForm": "5ef6f0bd1d8288f0dced62bb",
+    "IPA": "/ˌblæk ˈaɪ/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef704b57587c805436e1a68",
+    "wordForm": "5ef6f81e09cf1e77d0682277",
+    "IPA": "/ˌblæk ˈhəʊl/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef704bcbd53e80b0cb5d401",
+    "wordForm": "5ef6f81e09cf1e77d0682277",
+    "IPA": "/ˌblæk ˈhoʊl/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef704ef26e22d1c20971941",
+    "wordForm": "5ef6f83a6480c6899fb1f2f2",
+    "IPA": "/ˌblæk ˈmɑː.kɪt/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70557864b043da1a7002e",
+    "wordForm": "5ef6f83a6480c6899fb1f2f2",
+    "IPA": "/ˌblæk ˈmɑːr.kɪt/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef705d588f72e56e0635e8f",
+    "wordForm": "5ef6f8f2ad803c5d246eb5b7",
+    "IPA": "/ˈdɜː.ti/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef705d0c8dfdceb10b8f38e",
+    "wordForm": "5ef6f8f2ad803c5d246eb5b7",
+    "IPA": "/ˈdɝː.t̬i/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef851e956f2ed2c5df23859",
+    "wordForm": "5ef6f8edae748bb23c36200d",
+    "IPA": "/ˈdɜː.ti/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70628bd647774d3ef42bc",
+    "wordForm": "5ef6f8edae748bb23c36200d",
+    "IPA": "/ˈdɝː.t̬i/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef7066135b8239a869a6a2a",
+    "wordForm": "5ef6f8e8c8c42daef43b9d95",
+    "IPA": "/ˈdɜː.ti/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70667a7edd7d4ea3a72bb",
+    "wordForm": "5ef6f8e8c8c42daef43b9d95",
+    "IPA": "/ˈdɝː.t̬i/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef706e238ca1bb05e83f7a5",
+    "wordForm": "5ef6f936f214ef05e6fae1de",
+    "IPA": "/ˈdɜr·t̬i ˌwɜrk/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef706e9f910de0f37325620",
+    "wordForm": "5ef6f936f214ef05e6fae1de",
+    "IPA": "/ˈdɜr·t̬i ˌwɜrk/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70727c048e90a81df5d31",
+    "wordForm": "5ef6f96c2ba2dc7b819da044",
+    "IPA": "/ˈdɜː.ti ˌbɒm/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef7072df4602ad44a9ce1d6",
+    "wordForm": "5ef6f96c2ba2dc7b819da044",
+    "IPA": "/ˈdɝː.t̬i ˌbɑːm/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef707e70fd765141da37178",
+    "wordForm": "5ef6f999df9465fc5e6d819c",
+    "IPA": "/ˈdɜː.ti fləʊt/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef707ebe3636df6f627b43d",
+    "wordForm": "5ef6f999df9465fc5e6d819c",
+    "IPA": "/ˈdɝː.t̬i floʊt/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef7088ebb573d8ab4e71d27",
+    "wordForm": "5ef6fa0698d0c3cf70a3e6fb",
+    "IPA": "/ˈdɜː.ti ˈmʌn.i/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef708926fd568147c7b6c21",
+    "wordForm": "5ef6fa0698d0c3cf70a3e6fb",
+    "IPA": "/ˈdɜː.ti ˈmʌn.i/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef7092482aa664827426f83",
+    "wordForm": "5ef6fa00e71597f9501695c7",
+    "IPA": "/ˌdɜː.ti ˈwɜːd/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef709282c154cfe2b819a63",
+    "wordForm": "5ef6fa00e71597f9501695c7",
+    "IPA": "/ˌdɝː.t̬i ˈwɝːd/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef7097db033773bd0f4b53c",
+    "wordForm": "5ef6f9fb59736f499e29a62a",
+    "IPA": "/ˌdɜː.ti ˈtrɪks/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70982138cf37df3ca2fb5",
+    "wordForm": "5ef6f9fb59736f499e29a62a",
+    "IPA": "/ˌdɝː.t̬i ˈtrɪks/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef709e9e7fef7a242ee8576",
+    "wordForm": "5ef6fa3b6a440f6ae13942c5",
+    "IPA": "/ˌdaʊn.ənˈdɜː.ti/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef709ed51bc693a7f46b4ea",
+    "wordForm": "5ef6fa3b6a440f6ae13942c5",
+    "IPA": "/ˌdaʊn.ənˈdɝː.t̬i/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70a9b190f18bad0613195",
+    "wordForm": "5ef6fc7622405ed3c7995042",
+    "IPA": "/kleɪ/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70aa4c64bdfd1681df701",
+    "wordForm": "5ef6fc7622405ed3c7995042",
+    "IPA": "/kleɪ/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70b0a117d40a0f458c46f",
+    "wordForm": "5ef6fcc7d3e1619baa75badc",
+    "IPA": "/bɜːd/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70b060fb81f6605eef12d",
+    "wordForm": "5ef6fcc7d3e1619baa75badc",
+    "IPA": "/bɝːd/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70b5ae3a302b9f6b50062",
+    "wordForm": "5ef6fd2bac2ee8a982fe16a4",
+    "IPA": "/ˌbɜːd əv ˈpreɪ/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70b5ea21d671319ebd979",
+    "wordForm": "5ef6fd2bac2ee8a982fe16a4",
+    "IPA": "/ˌbɝːd əv ˈpreɪ/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70b930c4124d74603a0d9",
+    "wordForm": "5ef6fdd5d1d41dc6025fd15d",
+    "IPA": "/ˈɜː.li ˌbɜːd/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70b98b2c2740481ee9fed",
+    "wordForm": "5ef6fdd5d1d41dc6025fd15d",
+    "IPA": "/ˈɝː.li ˌbɝːd/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70bf0b2803f3b89ed946b",
+    "wordForm": "5ef6fe0b128c6566993044f2",
+    "IPA": "/ˈwɔː.tə ˌbɜːd/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70bf4406316dda2c40678",
+    "wordForm": "5ef6fe0b128c6566993044f2",
+    "IPA": "/ˈwɑː.t̬ɚ ˌbɝːd/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70c2ceb27691648047fd6",
+    "wordForm": "5ef6fe3185b4f9e0395ffb75",
+    "IPA": "/ˈbɜːd ˌbɒks/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70c306fcddf2ed1df8966",
+    "wordForm": "5ef6fe3185b4f9e0395ffb75",
+    "IPA": "/ˈbɜː˞d ˌbɑːks/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70c75c11d638892cc44cf",
+    "wordForm": "5ef6fe8908fa80daa19177cd",
+    "IPA": "/ˈsɪt.i/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70c793d2f27da65b24a1f",
+    "wordForm": "5ef6fe8908fa80daa19177cd",
+    "IPA": "/ˈsɪt̬.i/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70cc87382f1508a53cb30",
+    "wordForm": "5ef6fec62346a776c46f51e4",
+    "accent": "UK",
+    "IPA": "/ˌsɪt.i ˈkaʊn.səl/"
+  },
+  {
+    "_id": "5ef70ccc215a02142a408b81",
+    "wordForm": "5ef6fec62346a776c46f51e4",
+    "accent": "US",
+    "IPA": "/ˌsɪt̬.i ˈkaʊn.səl/"
+  },
+  {
+    "_id": "5ef70d24ea53211a4805e45a",
+    "wordForm": "5ef6fee43f43dd6e092fef98",
+    "IPA": "/ˌsɪt.i ˈhɔːl/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70d28f382134abd0d5ade",
+    "wordForm": "5ef6fee43f43dd6e092fef98",
+    "IPA": "/ˌsɪt̬.i ˈhɑːl/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70d6d996e518bb6f8eded",
+    "wordForm": "5ef6ff2e98e9d71a24f2d71c",
+    "IPA": "/ˈsləʊ ˌsɪt.i/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70d71ed364ad9b660f490",
+    "wordForm": "5ef6ff2e98e9d71a24f2d71c",
+    "IPA": "ˈsloʊ ˌsɪt̬.i/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70dd10203e9756fb8ffcb",
+    "wordForm": "5ef6ff5e621aa29187ed6f50",
+    "IPA": "/ˌɡɑː.dən ˈsɪt.i/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70dd57bc75a734bd53455",
+    "wordForm": "5ef6ff5e621aa29187ed6f50",
+    "IPA": "/ˌɡɑːr.dən ˈsɪt̬.i/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70e1fbebbf5b8ba26fe03",
+    "wordForm": "5ef6ff92eb30a10949087772",
+    "IPA": "/dɪˈziːz/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70e235a345f24117af16d",
+    "wordForm": "5ef6ff92eb30a10949087772",
+    "IPA": "/dɪˈziːz/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70e95529b0d809a7b08a3",
+    "wordForm": "5ef6ffc6a0541bcb5777f373",
+    "IPA": "/ˈɔltsˌhɑɪ·mərz (dɪˌziz)/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70eed53214b4cbadc7d68",
+    "wordForm": "5ef6ffdee46d877067cca32a",
+    "IPA": "/ˌsek.sjʊə.li trænzˌmɪt.ɪd dɪˈziːz/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70ef1a320b93c2d1cfbc9",
+    "wordForm": "5ef6ffdee46d877067cca32a",
+    "IPA": "/ˌsek.sjʊə.li trænzˌmɪt̬.ɪd dɪˈziːz/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef70f4e1b0579ee79c0002c",
+    "wordForm": "5ef6fff518520f72b9b4e06c",
+    "IPA": "/vəˌnɪə.ri.əl dɪˈziːz/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef70f550fcdd51829275a08",
+    "wordForm": "5ef6fff518520f72b9b4e06c",
+    "IPA": "/vəˌnɪr.i.əl dɪˈziːz/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef71022bf165c38d8d9f40e",
+    "wordForm": "5ef7008c7018b0642ae0165d",
+    "IPA": "/kənˈtent/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef7101d17bcedc9a620d75d",
+    "wordForm": "5ef7008c7018b0642ae0165d",
+    "IPA": "/kənˈtent/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef7101849f04922cf15388a",
+    "wordForm": "5ef70091203d822caf18bc14",
+    "IPA": "/ˈkɒn.tent/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef71014fa072fe035ee8489",
+    "wordForm": "5ef70091203d822caf18bc14",
+    "IPA": "/ˈkɑːn.tent/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef710106c5b935bfb6ea9bf",
+    "wordForm": "5ef70096bb6537eda8f9f6d5",
+    "IPA": "/kənˈtent/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef7100d18eda5842e146240",
+    "wordForm": "5ef70096bb6537eda8f9f6d5",
+    "IPA": "/kənˈtent/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef7111203181e43fce3ca69",
+    "wordForm": "5ef70127735ea8bc22ea2a0f",
+    "IPA": "/fɑːst/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef7110592e794197465110d",
+    "wordForm": "5ef70127735ea8bc22ea2a0f",
+    "IPA": "/fæst/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef852954d64af8f7201139e",
+    "wordForm": "5ef7012ea1db5cb0951a2b0d",
+    "IPA": "/fɑːst/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef712047b1ff572e840f46a",
+    "wordForm": "5ef7012ea1db5cb0951a2b0d",
+    "IPA": "/fæst/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef711fd7ce6485b633cdb3d",
+    "wordForm": "5ef701327bf2cbb9d7851750",
+    "IPA": "/fɑːst/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef711f8780e132ac7f36d24",
+    "wordForm": "5ef701327bf2cbb9d7851750",
+    "IPA": "/fæst/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef711f4630415800af33405",
+    "wordForm": "5ef70137ffda844d0335ce37",
+    "IPA": "/fɑːst/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef711f0a0632f198a4717ad",
+    "wordForm": "5ef70137ffda844d0335ce37",
+    "IPA": "/fæst/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef712d29451b26cc438f03d",
+    "wordForm": "5ef7017ed9d4eaa83c82efba",
+    "IPA": "/ˌfɑːst ˈfuːd/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef712d7bea9491b69b19988",
+    "wordForm": "5ef7017ed9d4eaa83c82efba",
+    "IPA": "/ˌfæst ˈfuːd/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef713445bd6d79a03befff9",
+    "wordForm": "5ef701e63dcdec5b55e9ba85",
+    "IPA": "/ˈfɑːst ˌtræk/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef7134982ce25a62111540e",
+    "wordForm": "5ef701e63dcdec5b55e9ba85",
+    "IPA": "/ˈfæst ˌtræk/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef71397ed09878449aac05e",
+    "wordForm": "5ef701f9a65a28da612df505",
+    "IPA": "/ˈfɑːst.træk/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef7139b15d971c55f86c98e",
+    "wordForm": "5ef701f9a65a28da612df505",
+    "IPA": "/ˈfæst.træk/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef714331234a6197a21d3fc",
+    "wordForm": "5ef7022aa446f4e70affc99d",
+    "IPA": "/ˈfɑːst ˌleɪn/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef714379cec8d3fff0a83c3",
+    "wordForm": "5ef7022aa446f4e70affc99d",
+    "IPA": "/ˈfæst ˌleɪn/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef7146d8b554605881f9fea",
+    "wordForm": "5ef7025a5390f6770a4b6d93",
+    "IPA": "/ˌfɑːst ˈlɪŋk/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef71471456f7650d7530029",
+    "wordForm": "5ef7025a5390f6770a4b6d93",
+    "IPA": "/ˌfæst ˈlɪŋk/",
+    "accent": "US"
+  },
+  {
+    "_id": "5ef714a74ba59822cab6befb",
+    "wordForm": "5ef702913874ebc4c3e6babe",
+    "IPA": "/ˈkʌl.ə.fɑːst/",
+    "accent": "UK"
+  },
+  {
+    "_id": "5ef714acf9eb8bf3406c5367",
+    "wordForm": "5ef702913874ebc4c3e6babe",
+    "IPA": "/ˈkʌl.ɚ.fæst/",
+    "accent": "US"
+  }
+]

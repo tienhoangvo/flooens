@@ -1,0 +1,14 @@
+extends base
+block content
+    main.main
+        .search-form
+            h1.heading-primary FLOOENS
+            form.form
+                .form-group
+                    div.input-fields
+                        input.form__input#search(type="text", placeholder="🔎 search now")
+                        button.btn--search-by-voice
+                            svg
+                                use(xlink:href=`img/sprite.svg#icon-mic`)
+                    ul#search-results.hide
+                        li NO RESULTS

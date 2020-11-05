@@ -1,0 +1,12 @@
+header.header
+    nav.nav.nav--dictionary
+        a.nav__item(href='/') 🔎 LOOK UP
+    nav.nav.nav--user
+        if user
+            a.nav__item.nav__item--logout Log out
+            a.nav__item(href='/me')
+                img.nav__user-img(src=`/img/users/${user.photo}`, alt=`${user.name} avatar`)
+                span= user.name.split(' ')[0]
+        else
+            a.nav__item.nav__item--login(href='/login') Log in
+            a.nav__item.nav__item--cta(href='/signup') Sign up

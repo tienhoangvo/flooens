@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "5ea2b83acc675c0bfc47d290",
+    "partOfSpeech": "verb",
+    "description": "action or state",
+    "slug": "verb"
+  },
+  {
+    "_id": "5ea2b83acc675c0bfc47d291",
+    "partOfSpeech": "noun",
+    "description": "thing or person",
+    "slug": "noun"
+  },
+  {
+    "_id": "5ea2b83acc675c0bfc47d292",
+    "partOfSpeech": "adjective",
+    "description": "describes a noun",
+    "slug": "adjective"
+  },
+  {
+    "_id": "5ea2b83acc675c0bfc47d293",
+    "partOfSpeech": "determiner",
+    "description": "limits or \"determines\" a noun",
+    "slug": "determiner"
+  },
+  {
+    "_id": "5ea2b83acc675c0bfc47d294",
+    "partOfSpeech": "adverb",
+    "description": "describes a verb, adjective or adverb",
+    "slug": "adverb"
+  },
+  {
+    "_id": "5ea2b83acc675c0bfc47d295",
+    "partOfSpeech": "prasal verb",
+    "description": "verb with a preposition or an adverb, with meaning different from its part",
+    "slug": "prasal-verb"
+  },
+  {
+    "_id": "5ea2b83acc675c0bfc47d296",
+    "partOfSpeech": "pronoun",
+    "description": "replaces a noun",
+    "slug": "pronoun"
+  },
+  {
+    "_id": "5ea2b83acc675c0bfc47d297",
+    "partOfSpeech": "preposition",
+    "description": "links a noun to another word",
+    "slug": "preposition"
+  },
+  {
+    "_id": "5ea2b83acc675c0bfc47d298",
+    "partOfSpeech": "interjection",
+    "description": "short exclamation, sometimes inserted into a sentence",
+    "slug": "interjection"
+  },
+  {
+    "_id": "5ea2b83acc675c0bfc47d299",
+    "partOfSpeech": "idiom",
+    "description": "a group of words established by usage as having a meaning not deducible from those of the individual words",
+    "slug": "idiom"
+  },
+  {
+    "_id": "5ea2b83acc675c0bfc47d29a",
+    "partOfSpeech": "collocation",
+    "description": "a word or phrase that is often used with another word or phrase",
+    "slug": "collocation"
+  },
+  {
+    "_id": "5ea2b83acc675c0bfc47d29b",
+    "partOfSpeech": "conjunction",
+    "description": "joins clauses or sentences or words",
+    "slug": "conjunction"
+  }
+]

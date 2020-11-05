@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "5eb8ae7914f5ec71ce489de4",
+    "name": "Vo Hoang Tien",
+    "email": "tienhoangvo.dev@gmail.com",
+    "password": "alwaysandforever",
+    "passwordConfirm": "alwaysandforever",
+    "role": "admin"
+  },
+  {
+    "_id": "5eb8ae809c5a28b4189c0e88",
+    "name": "Klaus Mikaelson",
+    "email": "klaus@mikaelson.to",
+    "password": "alwaysandforever",
+    "passwordConfirm": "alwaysandforever",
+    "role": "contributor"
+  },
+  {
+    "_id": "5eb8ae8c2f1690f7c731529c",
+    "name": "Hope Mikaelson",
+    "email": "hope@mikaelson.legacies",
+    "password": "alwaysandforever",
+    "passwordConfirm": "alwaysandforever",
+    "role": "contributor"
+  },
+  {
+    "_id": "5eb8ae942584dbec4e926d83",
+    "name": "Elijah Mikaelson",
+    "email": "elijah@mikaelson.to",
+    "password": "alwaysandforever",
+    "passwordConfirm": "alwaysandforever",
+    "role": "user"
+  },
+  {
+    "_id": "5eb8ae9f48f29ddf2aa21d43",
+    "name": "Rebeckah Mikaelson",
+    "email": "rebeckah@mikaelson.to",
+    "password": "alwaysandforever",
+    "passwordConfirm": "alwaysandforever",
+    "role": "user"
+  },
+  {
+    "_id": "5eb8aea5f02a131358febf27",
+    "name": "Kol Mikaelson",
+    "email": "kol@mikaelson.to",
+    "password": "alwaysandforever",
+    "passwordConfirm": "alwaysandforever",
+    "role": "user"
+  },
+  {
+    "_id": "5eb8aeac47e29b75d1117565",
+    "name": "Freya Mikaelson",
+    "email": "freya@mikaelson.to",
+    "password": "alwaysandforever",
+    "passwordConfirm": "alwaysandforever",
+    "role": "user"
+  },
+  {
+    "_id": "5eb8aeb3a037fd08d8f0301e",
+    "name": "Hayley Marshall-Kenner",
+    "email": "hayley@wolfqueen.to",
+    "password": "alwaysandforever",
+    "passwordConfirm": "alwaysandforever",
+    "role": "user"
+  },
+  {
+    "_id": "5eb8aebee04dcc45412fac20",
+    "name": "Lizzie Saltzman",
+    "email": "lizzie@saltzman.legacies",
+    "password": "alwaysandforever",
+    "passwordConfirm": "alwaysandforever",
+    "role": "user"
+  },
+  {
+    "_id": "5eb8aeca079b12f8b8f49e2a",
+    "name": "Josie Saltzman",
+    "email": "josie@saltzman.legacies",
+    "password": "alwaysandforever",
+    "passwordConfirm": "alwaysandforever",
+    "role": "user"
+  }
+]

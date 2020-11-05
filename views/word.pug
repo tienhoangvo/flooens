@@ -1,0 +1,81 @@
+extends base
+block content
+    main.main
+
+        .word#my-wordLists.hide
+            if user
+                .word__form
+                    .word__form-head--content
+                        h3.heading-teritary.my-wordLists__header Choose the wordlist
+                    ul.my-wordLists__list#search-results
+                        each wordList in user.wordLists
+                            li.my-wordLists__list__item
+                                a.my-wordLists__list__link(data-word-list-id=`${wordList.id}`)= wordList.name
+
+        .word
+            each wordForm in word.wordForms
+                .word__form
+                    .word__form-head
+                        .word__form-head--content
+                            h3.heading-tertiary= word.spelling
+                            span ||
+                            .word-class= wordForm.wordClass.partOfSpeech
+                        .word__form-head--pronunciation
+                            each pronunciation in wordForm.pronunciations
+                                .pronunciation--item
+                                    .pronunciation__accent= pronunciation.accent
+                                    .pronunciation__IPA= pronunciation.IPA
+                                    button.pronunciation__speaker(data-word-spelling=`${word.spelling}`, data-pronunciation-accent=`${pronunciation.accent}`) 🔊
+                    .word__form-content
+                        each wordSense in wordForm.wordSenses
+                            .word__sense
+                                .word__sense-head= `${wordSense.guideWord !== 'general' ? wordSense.guideWord.toUpperCase() : ''}`
+                                .word__sense-content
+                                    each definition in wordSense.definitions
+                                        .definition-head
+                                            p.definition= definition.definition
+                                            span.separator
+                                            - const wordListItem = {word: word.spelling, wordClass: wordForm.wordClass.partOfSpeech, pronunciations: wordForm.pronunciations, definition: definition}
+                                            a.add-to-word-list(href='#my-wordLists',data-word-list-item=`${JSON.stringify(wordListItem)}`) ➕
+                                        .definition-content
+                                            each example in definition.examples
+                                                p.example= example.example
+            //- .word__Form
+            //-     .word__Form-head
+            //-         h3.heading-tertiary underdog
+            //-         .word-class noun
+            //-         .pronunciation
+            //-             .pronunciation--item
+            //-                 .pronunciation__accent UK
+            //-                 audio.pronunciation__sound(controlls) 🔊
+            //-                     source(src='/img/sounds/pronunciations/demo.m4a', type='audio/mp3')
+            //-                 .pronunciation__IPA /ˈʌn.dɚ.dɑːɡ/
+            //-             .pronunciatio--iten
+            //-     .word__Form-content
+            //-         .word__sense
+            //-             .word__sense-head LIKE SOME ONE
+            //-             .word__sense-content
+            //-                 p.definition to like another adult very much and be romantically and sexually attracted to them, or to have strong feelings of liking a friend or person in your family
+            //-                 ul.examples-list
+            //-                     li.example-item I love you
+            //-                     li.example-item Last night he told me he loved me.
+            //- .word__Form
+            //-     .word__Form-head
+            //-         h3.heading-tertiary underdog
+            //-         .word-class noun
+            //-         .pronunciation
+            //-             .pronunciation--item
+            //-                 .pronunciation__accent UK
+            //-                 audio.pronunciation__sound(controlls) 🔊
+            //-                     source(src='/img/sounds/pronunciations/demo.m4a', type='audio/mp3')
+            //-                 .pronunciation__IPA /ˈʌn.dɚ.dɑːɡ/
+            //-             .pronunciatio--iten
+            //-     .word__Form-content
+            //-         .word__sense
+            //-             .word__sense-head LIKE SOME ONE
+            //-             .word__sense-content
+            //-                 p.definition to like another adult very much and be romantically and sexually attracted to them, or to have strong feelings of liking a friend or person in your family
+            //-                 ul.examples-list
+            //-                     li.example-item I love you
+            //-                     li.example-item Last night he told me he loved me.
+        
